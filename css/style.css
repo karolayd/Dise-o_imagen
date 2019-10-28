@@ -1,0 +1,42 @@
+.primera {
+  height: 325px;
+  width: 500px;
+}
+.primera img {
+  width: 700px;
+  margin-right: 400px;
+  margin-left: 300px;
+  height: 400px;
+}
+.segunda {
+  width: 800px;
+  margin-left: 50px;
+  height: 900px;
+  text-align: justify;
+}
+.segunda p {
+  width: 550px;
+  margin-right: 400px;
+  margin-left: 300px;
+}
+.titulo {
+  width: 600px;
+  margin-left: 70px;
+  height: 30px;
+}
+.titulo p {
+  width: 550px;
+  margin-right: 400px;
+  margin-left: 230px;
+  height: 10px;
+}
+span {
+  color: #0dafc5;
+}
+.cuarta {
+  width: 400px;
+  padding: 100px;
+  margin-right: 600px;
+  margin-left: 300px;
+  height: 100px;
+}
